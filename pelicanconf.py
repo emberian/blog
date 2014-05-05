@@ -25,3 +25,11 @@ ARCHIVES_SAVE_AS = 'blog/archives/index.html'
 
 CATEGORY_URL = 'categories/{slug}/'
 CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
+
+LANDING_PAGE_ABOUT = {
+        "title": "A developer striving for betterness",
+        "details": """
+My name is Corey Richardson and I'm a recovering developer. I work on the <a
+href="http://rust-lang.org/">Rust project</a> and numerous side projects.
+"""
+}
