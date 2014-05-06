@@ -1,4 +1,4 @@
-Title: "The State of Rust 0.7"
+Title: The State of Rust 0.7
 Date: 2013-07-05 09:51
 Category: Rust
 

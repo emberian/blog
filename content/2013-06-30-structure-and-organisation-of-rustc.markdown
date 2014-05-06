@@ -1,4 +1,4 @@
-Title: "Structure and organisation of rustc"
+Title: Structure and organisation of rustc
 Date: 2013-06-30 16:03
 Category: rust
 

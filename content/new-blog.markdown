@@ -1,4 +1,4 @@
-Title: "New Blog"
+Title: New Blog
 Date: 2014-05-04 12:10:35
 
 I did something to my environment and my octopress setup exploded. So, I

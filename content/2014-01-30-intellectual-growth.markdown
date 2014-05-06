@@ -1,4 +1,4 @@
-Title: "Intellectual Growth"
+Title: Intellectual Growth
 Date: 2014-01-30 00:15
 Category: Personal
 

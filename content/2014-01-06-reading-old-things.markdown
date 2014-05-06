@@ -1,4 +1,4 @@
-Title: "Reading Old Things"
+Title: Reading Old Things
 Date: 2014-01-06 19:00
 Category: Personal
 

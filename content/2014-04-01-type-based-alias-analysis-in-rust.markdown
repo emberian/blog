@@ -1,4 +1,4 @@
-Title: "Simple Type-Based Alias Analysis for Rust"
+Title: Simple Type-Based Alias Analysis for Rust
 Date: 2014-04-01 05:48
 Category: Rust
 

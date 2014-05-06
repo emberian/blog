@@ -1,4 +1,4 @@
-Title: "The State of Rust 0.9"
+Title: The State of Rust 0.9
 Date: 2014-01-12 21:13
 Category: Rust
 

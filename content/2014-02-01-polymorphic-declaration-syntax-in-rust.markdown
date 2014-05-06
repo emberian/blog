@@ -1,4 +1,4 @@
-Title: "Parametric Polymorphism Declaration Syntax in Rust"
+Title: Parametric Polymorphism Declaration Syntax in Rust
 Date: 2014-02-01 17:06
 Category: Rust
 

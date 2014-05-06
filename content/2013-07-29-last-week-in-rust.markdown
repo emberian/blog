@@ -1,4 +1,4 @@
-Title: "Last Week in Rust"
+Title: Last Week in Rust 8
 Date: 2013-07-29 06:55
 Category: This Week in Rust
 

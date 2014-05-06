@@ -1,4 +1,4 @@
-Title: "ACM ICPC: What I Learned"
+Title: ACM ICPC: What I Learned
 Date: 2013-10-20 10:47
 Category: Personal
 

@@ -1,4 +1,4 @@
-Title: "Rust Hiatus"
+Title: Rust Hiatus
 Date: 2013-10-14 04:05
 Category: Personal
 

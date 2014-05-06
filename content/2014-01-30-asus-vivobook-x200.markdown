@@ -1,4 +1,4 @@
-Title: "Asus Vivobook X200"
+Title: Asus Vivobook X200
 Date: 2014-01-30 01:36
 
 I recently upgraded my aging [Acer Aspire One](http://amzn.to/1fhxWj4) with a

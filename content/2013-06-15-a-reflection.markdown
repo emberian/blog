@@ -1,4 +1,4 @@
-Title: "A Reflection"
+Title: A Reflection
 Date: 2013-06-15 08:21
 Category: Personal
 

@@ -1,4 +1,4 @@
-Title: "Rust's Memory Management"
+Title: Rust's Memory Management
 Date: 2013-08-13 01:14
 Category: Rust
 

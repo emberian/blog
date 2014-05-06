@@ -1,4 +1,4 @@
-Title: "How I got started hacking rustc, and how you can too!"
+Title: How I got started hacking rustc, and how you can too!
 Date: 2013-06-23 08:06
 Category: Rust
 

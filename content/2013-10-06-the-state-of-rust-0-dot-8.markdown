@@ -1,4 +1,4 @@
-Title: "The State of Rust 0.8"
+Title: The State of Rust 0.8
 Date: 2013-10-06 20:32
 Category: Rust
 

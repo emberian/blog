@@ -1,4 +1,4 @@
-Title: "This Week in Rust"
+Title: This Week in Rust 17
 Date: 2013-09-30 13:11
 Category: This Week in Rust
 Tags: rust, programming

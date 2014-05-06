@@ -1,4 +1,4 @@
-Title: "TBAA Revisited"
+Title: TBAA Revisited
 Date: 2014-04-04 02:32
 Category: Rust
 

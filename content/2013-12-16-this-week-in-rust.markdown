@@ -1,4 +1,4 @@
-Title: "This Week in Rust"
+Title: This Week in Rust 27
 Date: 2013-12-16 16:14
 Category: This Week in Rust
 

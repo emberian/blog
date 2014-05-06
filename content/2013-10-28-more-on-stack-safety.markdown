@@ -1,4 +1,4 @@
-Title: "More On Stack Safety"
+Title: More On Stack Safety
 Date: 2013-10-28 17:58
 Category: Rust
 
