@@ -135,3 +135,40 @@ suggestions.
   which can generate bindings at parse-time.
 - [Rust for C++ programmers: part 6, Rc, Gc,
   *](http://featherweightmusings.blogspot.co.nz/2014/05/rust-for-c-programmers-part-6-rc-gc-and.html)
+
+# This Week in Servo
+
+Servo is a web browser engine written in Rust and is one of the primary test cases for the Rust language.
+
+In the last two weeks, we landed 79 PRs.
+
+## Notable additions
+
+- Josh Matthews implemented a [new rooting strategy](https://github.com/mozilla/servo/pull/2101) for JavaScript objects
+- Aydin Kim fixed the [Android build](https://github.com/mozilla/servo/pull/2367)
+- Glenn Watson fixed a bug with the new rooting strategy [during page interactions](https://github.com/mozilla/servo/pull/2340)
+- Brendan Zabarauskascleaned up the way that we [print debug info](https://github.com/mozilla/servo/pull/2336)
+- Bryan Bell added [dotted border support](https://github.com/mozilla/servo/pull/2438)
+- Cameron Zwarich switched JSRef to more efficiently enforce its [contravariant lifetime](https://github.com/mozilla/servo/pull/2435)
+- Guro Bokum converted many of our [RefCells to Cells](https://github.com/mozilla/servo/pull/2390)
+- Matt Murphy [converted](https://github.com/mozilla/servo/pull/2317) many of our uses of `~[]` to `Vec`
+
+## New Contributors
+
+- Brendan Zabarauskas (bjz)
+- Bryan Bell (bjwbell)
+- Cameron Zwarich (zwarich)
+- Glenn Watson (gw)
+- Guro Bokum (jiojiajiu)
+- Matt Murphy (murphm8)
+
+## Meetings and Notes
+
+In the meeting [two weeks
+ago](https://github.com/mozilla/servo/wiki/Meeting-2014-05-05), we introduced
+a new team member, Cameron Zwarich (zwarich). He is joining us from Apple, and
+will be working on cross-language inlining in support of SpiderMonkey, among
+other things. In last week's
+[meeting](https://github.com/mozilla/servo/wiki/Meeting-2014-05-13), we
+discussed 32-bit support for Servo, the design of the HTML parser, and
+potentially replacing our Azure+Skia graphics stack.
