@@ -1,7 +1,7 @@
 Title: This Week In Rust 2
 Date: 2013-06-15 22:00
 Tags: this-week-in-rust, programming
-Category: Rust
+Category: This Week in Rust
 
 Hello and welcome to the second issue of *This Week In Rust*, a weekly overview
 of Rust and its community. I'll be covering what's cooking in incoming,
