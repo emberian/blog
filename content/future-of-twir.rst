@@ -26,7 +26,7 @@ make it even better.
 
 TWiR is moving to a dedicated domain, ``this-week-in-rust.org``. This will
 keep my personal blog, well, personal. There will continue to be a weekly
-newsletter, available on my blog, via RSS, and (new!) via email. The
+newsletter, available on the website, via RSS, and (new!) via email. The
 newsletter will be more prose-like than the current list, and feature more
 interpretation of the last week's events, rather than just enumerating them.
 Besides this, there will be a podcast every other week (transcripts available,
