@@ -32,13 +32,16 @@ interpretation of the last week's events, rather than just enumerating them.
 Besides this, there will be a podcast every other week (transcripts available,
 of course), for those who enjoy that sort of thing. On top of that, there will
 be at-least-monthly screencasts or otherwise-video media for your
-entertainment and edification.
+entertainment and edification. I am also going to start asking some people if
+they would like to write "guest posts" for This Week in Rust. If you are
+interested in this, shoot me an email. Feel free to write anything
+Rust-related (even vaguely), from technical to hilarious.
 
-On top of this static content, there will also be a dynamic page that shows
-important changes from the past time range. I'm still working out a prototype
-of this, but I expect it to be awesome. Snapshots of it should serve well to
-augment This Week in Rust. It will feature things such as voting on changes
-you find especially important or interesting, and space for further
+In addition to this static content, there will also be a dynamic page that
+shows important changes from the past time range. I'm still working out a
+prototype of this, but I expect it to be awesome. Snapshots of it should serve
+well to augment This Week in Rust. It will feature things such as voting on
+changes you find especially important or interesting, and space for further
 explanations and QA. All of this will of course be written in Rust.
 
 So no, This Week in Rust is not going away. There is only *more* greatness to
