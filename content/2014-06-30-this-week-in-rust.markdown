@@ -10,7 +10,7 @@ email!](mailto:corey@octayn.net?subject=This%20Week%20in%20Rust%20Suggestion)
 Want to get involved? [We love
 contributions](https://github.com/mozilla/rust/wiki/Note-guide-for-new-contributors).
 
-It's time for 0.11! The [prelease candidate is
+It's time for 0.11! The [prerelease candidate is
 available](https://mail.mozilla.org/pipermail/rust-dev/2014-June/010618.html).
 
 <!-- more -->
@@ -30,7 +30,7 @@ with `git log --no-merges --grep 'breaking-change' --since 6/21/2014 --until
   T`.
 - `struct` literals [are not
   allowed](https://github.com/rust-lang/rust/pull/14885) in expressions that
-  preceed a block.
+  precede a block.
 - The type of `42` [is no longer
   int](https://github.com/rust-lang/rust/commit/9e3d0b002a5c2e81d43351c9b8550a3f4ccfb8f9)
   but will be inferred as normal.
@@ -74,7 +74,7 @@ with `git log --no-merges --grep 'breaking-change' --since 6/21/2014 --until
 - [Clarify that removing language features requires an
   RFC](https://github.com/rust-lang/rfcs/pull/140)
 - [New lifetime elision rules](https://github.com/rust-lang/rfcs/pull/141)
-- [Efficient single inheritence](https://github.com/rust-lang/rfcs/pull/142)
+- [Efficient single inheritance](https://github.com/rust-lang/rfcs/pull/142)
 - [FromLiteral](https://github.com/rust-lang/rfcs/pull/143)
 - [Memory exploit mitigation](https://github.com/rust-lang/rfcs/pull/145)
 - [Scoped attributes for checked
