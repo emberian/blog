@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ["render_math"]
 AUTHOR = u'Corey Richardson'
 SITENAME = u"Corey's Local Search"
 SITEURL = 'http://blog.octayn.net'
