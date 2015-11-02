@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Corey Richardson'
-SITENAME = u"Rust 'n Stuffs"
+SITENAME = u"Corey's Local Search"
 SITEURL = 'http://blog.octayn.net'
 
 THEME = 'pelican-octopress-theme'
@@ -27,9 +27,8 @@ CATEGORY_URL = 'categories/{slug}/'
 CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
 
 LANDING_PAGE_ABOUT = {
-        "title": "A developer striving for betterness",
+        "title": "Just some person, you know?",
         "details": """
-My name is Corey Richardson and I'm a recovering developer. I work on the <a
-href="http://rust-lang.org/">Rust project</a> and numerous side projects.
+My name is Corey Richardson and I'm searching for happiness.
 """
 }
