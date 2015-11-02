@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Corey Richardson'
 SITENAME = u"Rust 'n Stuffs"
-SITEURL = ''
+SITEURL = 'http://blog.octayn.net'
 
 THEME = 'pelican-octopress-theme'
 
