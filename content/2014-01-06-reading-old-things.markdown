@@ -26,4 +26,4 @@ have survived so long. Try reading some older books and papers. [Let me know
 how it goes](mailto:corey@octayn.net). Have some suggestions for great books
 and papers, old or others? I'd like to hear those too.
 
-[backus]: http://www.stanford.edu/class/cs242/readings/backus.pdf
+[backus]: http://dx.doi.org/10.1145/359576.359579
