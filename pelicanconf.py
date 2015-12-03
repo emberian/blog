@@ -6,7 +6,7 @@ PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["render_math"]
 AUTHOR = u'Corey Richardson'
 SITENAME = u"Corey's Local Search"
-SITEURL = 'http://blog.octayn.net'
+SITEURL = 'https://blog.octayn.net'
 
 THEME = 'pelican-octopress-theme'
 
